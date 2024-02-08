@@ -28,4 +28,4 @@ Clean Architecture with domain driven design pattern.
 
 # Technical Architecture:
 
-![Alt text]('docs/images/CleanArchitecture.jpg')
+![image](docs/images/CleanArchitecture.jpg)
